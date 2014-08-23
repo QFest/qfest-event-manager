@@ -88,8 +88,9 @@ class Admin extends QFest_Controller {
 			
 		}
 		else
-		{	
-			if($this->input->post('username')==$this->access_user && $this->input->post('password')==$this->access_pass)
+		{	require_once(APPPATH."/config/credentials.php");
+				
+			if($this->input->post('username')==$access_user && $this->input->post('password')==$access_pass)
 			{
 				setcookie('is_admin1','yes',time()+3600*24);
 				redirect(base_url().'admin');
@@ -535,7 +536,8 @@ class Admin extends QFest_Controller {
 			}
 		if($_POST)
 		{ 
-			if($_POST['pass'] == "master#*bodhi")
+			require_once(APPPATH."/config/credentials.php");
+			if($_POST['pass'] == $master_pass)
 			{
 				$q = array();
 				foreach($pevents as $k=>$v)

@@ -35,6 +35,9 @@
 		margin: 0 0 14px 0;
 		padding: 14px 15px 10px 15px;
 	}
+	
+button {border: none;padding: 5px;border-radius: 10px;color: white;background: linear-gradient(#777,#666);}
+button:active{background:linear-gradient(#666,#777); }
 
 	code {
 		font-family: Consolas, Monaco, Courier New, Courier, monospace;

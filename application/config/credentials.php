@@ -1,5 +1,5 @@
 <?php 
 				//access credentials
- $access_user= 'moonwalker';
- $access_pass	= 'trouble';
+ $access_user= 'acash';
+ $access_pass	= 'test';
  $master_pass	= 'test';

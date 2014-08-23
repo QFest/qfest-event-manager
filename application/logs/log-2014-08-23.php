@@ -3792,3 +3792,260 @@ DEBUG - 2014-08-23 14:50:31 --> UTF-8 Support Enabled
 DEBUG - 2014-08-23 14:50:31 --> URI Class Initialized
 DEBUG - 2014-08-23 14:50:31 --> Router Class Initialized
 ERROR - 2014-08-23 14:50:31 --> 404 Page Not Found --> pics
+DEBUG - 2014-08-23 17:28:20 --> Config Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> Hooks Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 17:28:20 --> URI Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> Router Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> No URI present. Default controller set.
+DEBUG - 2014-08-23 17:28:20 --> Output Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> Security Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> Input Class Initialized
+DEBUG - 2014-08-23 17:28:20 --> CRSF cookie Set
+DEBUG - 2014-08-23 17:28:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 17:28:21 --> Language Class Initialized
+DEBUG - 2014-08-23 17:28:21 --> Loader Class Initialized
+DEBUG - 2014-08-23 17:28:21 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 17:28:21 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 17:28:21 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 17:28:21 --> Database Driver Class Initialized
+ERROR - 2014-08-23 17:28:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 17:28:21 --> Session Class Initialized
+DEBUG - 2014-08-23 17:28:21 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 17:28:21 --> A session cookie was not found.
+DEBUG - 2014-08-23 17:28:21 --> Session routines successfully run
+DEBUG - 2014-08-23 17:28:21 --> Controller Class Initialized
+DEBUG - 2014-08-23 17:28:21 --> File loaded: application/views/welcome_message.php
+DEBUG - 2014-08-23 17:28:21 --> Final output sent to browser
+DEBUG - 2014-08-23 17:28:21 --> Total execution time: 0.9795
+DEBUG - 2014-08-23 17:36:58 --> Config Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Hooks Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 17:36:58 --> URI Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Router Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> No URI present. Default controller set.
+DEBUG - 2014-08-23 17:36:58 --> Output Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Security Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Input Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> CRSF cookie Set
+DEBUG - 2014-08-23 17:36:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 17:36:58 --> Language Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Loader Class Initialized
+DEBUG - 2014-08-23 17:36:58 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 17:36:58 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 17:36:59 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 17:36:59 --> Database Driver Class Initialized
+ERROR - 2014-08-23 17:36:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 17:36:59 --> Session Class Initialized
+DEBUG - 2014-08-23 17:36:59 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 17:36:59 --> Session routines successfully run
+DEBUG - 2014-08-23 17:36:59 --> Controller Class Initialized
+DEBUG - 2014-08-23 17:36:59 --> File loaded: application/views/welcome_message.php
+DEBUG - 2014-08-23 17:36:59 --> Final output sent to browser
+DEBUG - 2014-08-23 17:36:59 --> Total execution time: 0.9511
+DEBUG - 2014-08-23 18:42:52 --> Config Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:42:52 --> URI Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Router Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> No URI present. Default controller set.
+DEBUG - 2014-08-23 18:42:52 --> Output Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Security Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Input Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:42:52 --> CSRF token verified
+DEBUG - 2014-08-23 18:42:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:42:52 --> Language Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:42:52 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:42:52 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:42:52 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:42:52 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:42:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:42:53 --> Session Class Initialized
+DEBUG - 2014-08-23 18:42:53 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:42:53 --> Session routines successfully run
+DEBUG - 2014-08-23 18:42:53 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:42:53 --> File loaded: application/views/welcome_message.php
+DEBUG - 2014-08-23 18:42:53 --> Final output sent to browser
+DEBUG - 2014-08-23 18:42:53 --> Total execution time: 0.9540
+DEBUG - 2014-08-23 18:43:01 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:01 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Router Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Output Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Security Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Input Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:43:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:43:01 --> Language Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:43:01 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:43:01 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:43:01 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:43:01 --> Session Class Initialized
+DEBUG - 2014-08-23 18:43:01 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:43:01 --> Session routines successfully run
+DEBUG - 2014-08-23 18:43:02 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:43:02 --> File loaded: application/views/admin/header.php
+DEBUG - 2014-08-23 18:43:02 --> File loaded: application/views/admin/home.php
+DEBUG - 2014-08-23 18:43:02 --> File loaded: application/views/admin/footer.php
+DEBUG - 2014-08-23 18:43:02 --> Final output sent to browser
+DEBUG - 2014-08-23 18:43:02 --> Total execution time: 1.0063
+DEBUG - 2014-08-23 18:43:02 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:02 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:02 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:02 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:02 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:02 --> Router Class Initialized
+ERROR - 2014-08-23 18:43:02 --> 404 Page Not Found --> pics
+DEBUG - 2014-08-23 18:43:05 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:05 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:06 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Router Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Output Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Security Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Input Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:43:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:43:06 --> Language Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:43:06 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:43:06 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:43:06 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:43:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:43:06 --> Session Class Initialized
+DEBUG - 2014-08-23 18:43:06 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:43:07 --> Session routines successfully run
+DEBUG - 2014-08-23 18:43:07 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:07 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Router Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Output Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Security Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> Input Class Initialized
+DEBUG - 2014-08-23 18:43:07 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:43:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:43:07 --> Language Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:43:08 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:43:08 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:43:08 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:43:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:43:08 --> Session Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:43:08 --> Session routines successfully run
+DEBUG - 2014-08-23 18:43:08 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:08 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Router Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Output Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Security Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> Input Class Initialized
+DEBUG - 2014-08-23 18:43:08 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:43:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:43:08 --> Language Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:43:09 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:43:09 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:43:09 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:43:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:43:09 --> Session Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:43:09 --> Session routines successfully run
+DEBUG - 2014-08-23 18:43:09 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Form Validation Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> File loaded: application/views/admin/login.php
+DEBUG - 2014-08-23 18:43:09 --> Final output sent to browser
+DEBUG - 2014-08-23 18:43:09 --> Total execution time: 0.8824
+DEBUG - 2014-08-23 18:43:09 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:09 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:09 --> Router Class Initialized
+ERROR - 2014-08-23 18:43:10 --> 404 Page Not Found --> pics
+DEBUG - 2014-08-23 18:43:10 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:10 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:10 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:10 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:10 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:10 --> Router Class Initialized
+ERROR - 2014-08-23 18:43:10 --> 404 Page Not Found --> pics
+DEBUG - 2014-08-23 18:43:18 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:18 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> Router Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> Output Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> Security Class Initialized
+DEBUG - 2014-08-23 18:43:18 --> Input Class Initialized
+DEBUG - 2014-08-23 18:43:19 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:43:19 --> CSRF token verified
+DEBUG - 2014-08-23 18:43:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:43:19 --> Language Class Initialized
+DEBUG - 2014-08-23 18:43:19 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:43:19 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:43:19 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:43:19 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:43:19 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:43:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:43:19 --> Session Class Initialized
+DEBUG - 2014-08-23 18:43:19 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:43:19 --> Session routines successfully run
+DEBUG - 2014-08-23 18:43:19 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:43:19 --> Form Validation Class Initialized
+DEBUG - 2014-08-23 18:43:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2014-08-23 18:43:20 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:20 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Router Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Output Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Security Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Input Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> CRSF cookie Set
+DEBUG - 2014-08-23 18:43:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 18:43:20 --> Language Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Loader Class Initialized
+DEBUG - 2014-08-23 18:43:20 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 18:43:20 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 18:43:20 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 18:43:20 --> Database Driver Class Initialized
+ERROR - 2014-08-23 18:43:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 18:43:20 --> Session Class Initialized
+DEBUG - 2014-08-23 18:43:21 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 18:43:21 --> Session routines successfully run
+DEBUG - 2014-08-23 18:43:21 --> Controller Class Initialized
+DEBUG - 2014-08-23 18:43:21 --> File loaded: application/views/admin/header.php
+DEBUG - 2014-08-23 18:43:21 --> File loaded: application/views/admin/home.php
+DEBUG - 2014-08-23 18:43:21 --> File loaded: application/views/admin/footer.php
+DEBUG - 2014-08-23 18:43:21 --> Final output sent to browser
+DEBUG - 2014-08-23 18:43:21 --> Total execution time: 1.2318
+DEBUG - 2014-08-23 18:43:21 --> Config Class Initialized
+DEBUG - 2014-08-23 18:43:21 --> Hooks Class Initialized
+DEBUG - 2014-08-23 18:43:21 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 18:43:21 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 18:43:21 --> URI Class Initialized
+DEBUG - 2014-08-23 18:43:21 --> Router Class Initialized
+ERROR - 2014-08-23 18:43:21 --> 404 Page Not Found --> pics
