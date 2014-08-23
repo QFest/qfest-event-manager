@@ -4049,3 +4049,37 @@ DEBUG - 2014-08-23 18:43:21 --> UTF-8 Support Enabled
 DEBUG - 2014-08-23 18:43:21 --> URI Class Initialized
 DEBUG - 2014-08-23 18:43:21 --> Router Class Initialized
 ERROR - 2014-08-23 18:43:21 --> 404 Page Not Found --> pics
+DEBUG - 2014-08-23 19:47:21 --> Config Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Hooks Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 19:47:21 --> URI Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Router Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Output Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Security Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Input Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> CRSF cookie Set
+DEBUG - 2014-08-23 19:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-08-23 19:47:21 --> Language Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Loader Class Initialized
+DEBUG - 2014-08-23 19:47:21 --> Helper loaded: url_helper
+DEBUG - 2014-08-23 19:47:21 --> Helper loaded: form_helper
+DEBUG - 2014-08-23 19:47:21 --> Helper loaded: date_helper
+DEBUG - 2014-08-23 19:47:22 --> Database Driver Class Initialized
+ERROR - 2014-08-23 19:47:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\devlopertools\xampp\htdocs\bodhi\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-08-23 19:47:22 --> Session Class Initialized
+DEBUG - 2014-08-23 19:47:22 --> Helper loaded: string_helper
+DEBUG - 2014-08-23 19:47:22 --> Session routines successfully run
+DEBUG - 2014-08-23 19:47:22 --> Controller Class Initialized
+DEBUG - 2014-08-23 19:47:22 --> File loaded: application/views/admin/header.php
+DEBUG - 2014-08-23 19:47:22 --> File loaded: application/views/admin/home.php
+DEBUG - 2014-08-23 19:47:22 --> File loaded: application/views/admin/footer.php
+DEBUG - 2014-08-23 19:47:22 --> Final output sent to browser
+DEBUG - 2014-08-23 19:47:22 --> Total execution time: 1.4751
+DEBUG - 2014-08-23 19:47:24 --> Config Class Initialized
+DEBUG - 2014-08-23 19:47:24 --> Hooks Class Initialized
+DEBUG - 2014-08-23 19:47:24 --> Utf8 Class Initialized
+DEBUG - 2014-08-23 19:47:24 --> UTF-8 Support Enabled
+DEBUG - 2014-08-23 19:47:24 --> URI Class Initialized
+DEBUG - 2014-08-23 19:47:24 --> Router Class Initialized
+ERROR - 2014-08-23 19:47:24 --> 404 Page Not Found --> pics

@@ -17,12 +17,12 @@ class Admin extends QFest_Controller {
 		$data["total"] = $result2->result_array();
 	
 		$result2 = $this->db->query($q." limit 0,5");
-		$data["recently"] = $result2->result_array();
-		
-		$result2 = $this->db->query("SELECT name as event,college as num FROM `online_regs` where confirm=1 order by user_id desc limit 0,5");
 		$data["top_eve"] = $result2->result_array();
 		
-		$result2 = $this->db->query("select college as event , count(*) as num from `online_regs` where LOWER(college) not like '%viswajyothi%' and confirm=1 group by college order by num desc limit 0,5");
+		$result2 = $this->db->query("SELECT name as event,college as num FROM `online_regs` where confirm=1 order by user_id desc limit 0,5");
+		$data["recently"] = $result2->result_array();
+		
+		$result2 = $this->db->query("select college as event , count(*) as num from `online_regs` where confirm=1 group by college order by num desc limit 0,5");
 		$data["top_external"] = $result2->result_array();
 		
 		$result2 = $this->db->query("select event_name as event , stopped as num from `events` where stopped=1");
